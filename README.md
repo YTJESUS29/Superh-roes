@@ -1,7 +1,5 @@
 
-
 # Capitán CiberPro
-
 ![Texto alternativo](img/banner.jpg)
 
 ## ¡Bienvenido!
